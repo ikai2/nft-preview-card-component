@@ -107,7 +107,7 @@ body {
 .equil-stats_info {
     display: flex;
     align-items: center;
-    gap: 0.250rem;
+    gap: 0.5rem;
     color: hsl(var(--soft-blue));
 }
 
